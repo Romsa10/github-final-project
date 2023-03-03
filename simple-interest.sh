@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <Romsa10>
+   # Romsa10
 
    # Input:
    # p, principal amount
